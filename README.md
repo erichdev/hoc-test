@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/erichdev/hoc-test.svg?branch=master)](https://travis-ci.org/erichdev/hoc-test)
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
